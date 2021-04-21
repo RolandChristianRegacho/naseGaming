@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @naseGaming
 - 👀 I’m interested in web/game development
-- 🌱 I’m currently learning ndoe.js
+- 🌱 I’m currently learning node.js
 - 💞️ I’m looking to collaborate on any open source paid/non-paid projects
 - 📫 How to reach me regacho800@gmail.com
 
